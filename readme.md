@@ -1,14 +1,14 @@
-# hyper-oceans16 [![npm](https://img.shields.io/npm/v/hyper-oceans16.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-oceans16)  [![npm](https://img.shields.io/npm/dm/hyper-oceans16.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-oceans16)
+# hyper-aurora  [![npm](https://img.shields.io/npm/v/hyper-aurora.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-aurora) [![npm](https://img.shields.io/npm/dm/hyper-aurora.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-aurora)
 
-> Oceans16 Theme for [Hyper](https://hyper.is) based on [Jupyter](https://github.com/dunovank/jupyter-themes) schemes.
+> Aurora Theme for [Hyper](https://hyper.is) based on [Aurora](https://en.wikipedia.org/wiki/Aurora).
 
-![hyper-oceans16](https://cloud.githubusercontent.com/assets/1430576/21891998/9ab0b824-d8d5-11e6-954a-41e9906e4b66.png)
-![hyper-oceans16-tabs](https://cloud.githubusercontent.com/assets/1430576/21892002/9c0c05d4-d8d5-11e6-859d-e0048d46de1f.png)
+![hyper-aurora](https://user-images.githubusercontent.com/1430576/28240729-e2486672-6986-11e7-8c9b-264a4ac9dbb2.png)
+![hyper-aurora-tabs](https://user-images.githubusercontent.com/1430576/28240728-e247cbfe-6986-11e7-9ff1-fc1e9f621881.png)
 
 
 ## Install
 
-Add `hyper-oceans16` to the plugins array in your `~/.hyper.js` config.
+Add `hyper-aurora` to the plugins array in your `~/.hyper.js` config.
 
 
 ## Plugins
@@ -20,6 +20,7 @@ Add `hyper-oceans16` to the plugins array in your `~/.hyper.js` config.
 ## Other
 
 * [hyper-chesterish](https://github.com/henrikdahl/hyper-chesterish)
+* [hyper-oceans16](https://github.com/henrikdahl/hyper-oceans16)
 
 
 ## License
