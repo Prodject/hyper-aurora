@@ -1,10 +1,10 @@
 {
-  "name": "hyper-oceans16",
-  "version": "1.14.3",
-  "description": "Oceans16 Theme for Hyper",
+  "name": "hyper-aurora",
+  "version": "1.0.0",
+  "description": "Aurora Theme for Hyper",
   "main": "index.js",
   "license": "MIT",
-  "repository": "henrikdahl/hyper-oceans16",
+  "repository": "henrikdahl/hyper-aurora",
   "author": {
     "name": "Henrik Dahlheim",
     "email": "henrik.dahlheim@gmail.com"
@@ -17,7 +17,7 @@
     "hyper-theme",
     "hyperterm",
     "hyperterm-theme",
-    "oceans16",
-    "hyper-oceans16"
+    "aurora",
+    "hyper-aurora"
   ]
 }
