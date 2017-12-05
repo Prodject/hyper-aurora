@@ -36,7 +36,7 @@ exports.decorateConfig = config => {
         termCSS: `
             ${config.termCSS || ''}
             ::selection {
-                background: rgba(130, 143, 148, 1) !important;
+                background: rgba(52, 95, 112, 1) !important;
             }
             x-screen x-row {
                 font-variant-ligatures: initial;
@@ -48,7 +48,7 @@ exports.decorateConfig = config => {
         css: `
             ${config.css || ''}
             ::selection {
-                background: rgba(130, 143, 148, 1) !important;
+                background: rgba(52, 95, 112, 1) !important;
             }
         `
     });
